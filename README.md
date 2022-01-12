@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/apple-1.svg" alt="Apple logo" width="50" height="50"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu logo" width="50" height="50"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/apple-1.svg" alt="Apple logo" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu logo" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/>  
